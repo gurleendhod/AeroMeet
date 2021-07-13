@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542547871603",
+    "project_id": "aeromeet-bdb10",
+    "storage_bucket": "aeromeet-bdb10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542547871603:android:e60b3af7d69d272866a706",
+        "android_client_info": {
+          "package_name": "com.aero.aero_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542547871603-09gakvi0g1ccgsttfk6va8lm9c4jm134.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMFL29Lv7_vMTl90_E7Pp9Dz6JBfxGH1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542547871603-09gakvi0g1ccgsttfk6va8lm9c4jm134.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
