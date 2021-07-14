@@ -1,8 +1,11 @@
-# AeroMeet
+<p align = "center">
+  <b>AeroMeet</b>
+</p>
 
 <!-- Add banner here -->
-<img src="ReadmeAssets/Logo.png"> 
-# AeroMeet by Gurleen
+<p align = "center">
+  <img src="ReadmeAssets/Logo.png" />
+</p>
 
 Float on air, with AeroMeet! This project was built as a part of the Microsoft Engage Mentorship Program 2021 where mentees were promoted to follow agile methodolgy to develop a video conferencing application.
 <b>Motivation:</b> The need for social distancing has made each one of us feel disconnected from our family, friends, colleagues. This lack of connectedness isn’t only a detriment to employee satisfaction and wellbeing. When you consider that collaboration truly hinges on the interpersonal magic of teammates working together, it’s easy to see how the retreat to WFH could run the risk of eroding team productivity and innovation. Overhere, video conferencing platforms such as Microsoft Teams come into the picture, to feel us more connected.
@@ -13,12 +16,13 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 
 - [Features of the Application (With Demo)](#features-of-the-application-with-demo)
 - [Tech Stack Selection](#tech-stack-selection)
-- [Usage of Scrum Methodology (With Demo)](#usage-of-scrum-methodology-with-demo)
+- [How To Use](#how-to-use)
+- [Usage of Scrum Methodology](#usage-of-scrum-methodology)
 - [Challenges Faced](#challenges-faced)
 - [Learnings](#learnings)
-- [Future Scope](#future-scope)
 - [Bug Log](#bug-log)
 - [Try The Mobile Application](#try-the-mobile-application)
+- [Support and Contact](#support-and-contact)
 
 # Features of the Application (With Demo)
 
@@ -44,79 +48,79 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 
 <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
 
-# How To Use
-
-1. Go to the profile section and enter your credentials after clicking on 'Register' option.
-
-<img src="ReadmeAssets/Img1.jpeg" width="200px"> 
-
-<br>
-
-2. Come back to the Sign In page and enter user details again to sign in.
-
-<img src="ReadmeAssets/Img2.jpeg" width="200px"> 
-
-<br>
-
-3. Either you can go to the dashboard for meetings or chat to have one to one chat.
-
-<img src="ReadmeAssets/Img3.jpeg" width="200px"> 
-
-<br>
-
-4. For joining the meeting user has to enter the room id, shared with him and enter display name, after clicking on join now, user can enter into the meeting room.
-
-<img src="ReadmeAssets/Img4.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img5.jpeg" width="200px" height="300px"> 
-
-<br>
-
-5. To host a meeting, enter the meeting title, room id, set date and time. Press on create room and voila! room is created.
-
-<img src="ReadmeAssets/Img6.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img7.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img8.jpeg" width="200px" height="300px"> 
-
-<br>
-
-6. In the history section, past entered meetings are available which can either be entered again by copying the room id or deleted.
-
-<img src="ReadmeAssets/Img9.jpeg" width="200px" height="300px"> 
-
-<br>
-
-7. If signed in, user can enjoy one to one chat functionality by entering the other users unique personal identity id, available under the profile section, after clicking on the search icon.
-
-<img src="ReadmeAssets/Img10.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img11.jpeg" width="200px" height="300px"> 
-
-<br>
-
-8. Audio calling, video calling, sending messages and sharing images are the features which the signed in user can leverage under the message option.
-
-<img src="ReadmeAssets/Img12.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img13.jpeg" width="200px" height="300px"> 
-
-<br>
-
-9. Highly customiizable profile card under the profile section gives user freedom to change his/her display name and display image.
-
-<img src="ReadmeAssets/Img14.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img15.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img16.jpeg" width="200px" height="300px"> 
-<img src="ReadmeAssets/Img17.jpeg" width="200px" height="300px"> 
-
-<br>
-
-NOTE: User can join or create meetings without even logging in but cannot use chatting feature.
-
-[(Back to top)](#table-of-contents)
-
 # Tech Stack Selection 
 
 Mobile apps have become one of the important parts of our life that connects us with people living in different places just by sitting at home hence, I decided to develop a <b>mobile application</b> so that it allows users to access the application on the go.
 
 For frontend development, I have used <b>Flutter</b>, which helps to create cross-platform applications. For backend development, I have used <b>Firebase</b>. After deep analysis, <b>Agora SDK</b> was choosen as the most suitable real time engagement platform.
+
+[(Back to top)](#table-of-contents)
+
+# How To Use
+
+1. Go to the profile section and enter your credentials after clicking on 'Register' option.
+
+<img src="ReadmeAssets/Img1.jpeg"> 
+
+<br>
+
+2. Come back to the Sign In page and enter user details again to sign in.
+
+<img src="ReadmeAssets/Img2.jpeg"> 
+
+<br>
+
+3. Either you can go to the dashboard for meetings or chat to have one to one chat.
+
+<img src="ReadmeAssets/Img3.jpeg"> 
+
+<br>
+
+4. For joining the meeting user has to enter the room id, shared with him and enter display name, after clicking on join now, user can enter into the meeting room.
+
+<img src="ReadmeAssets/Img4.jpeg"> 
+<img src="ReadmeAssets/Img5.jpeg"> 
+
+<br>
+
+5. To host a meeting, enter the meeting title, room id, set date and time. Press on create room and voila! room is created.
+
+<img src="ReadmeAssets/Img6.jpeg"> 
+<img src="ReadmeAssets/Img7.jpeg"> 
+<img src="ReadmeAssets/Img8.jpeg"> 
+
+<br>
+
+6. In the history section, past entered meetings are available which can either be entered again by copying the room id or deleted.
+
+<img src="ReadmeAssets/Img9.jpeg"> 
+
+<br>
+
+7. If signed in, user can enjoy one to one chat functionality by entering the other users unique personal identity id, available under the profile section, after clicking on the search icon.
+
+<img src="ReadmeAssets/Img10.jpeg"> 
+<img src="ReadmeAssets/Img11.jpeg"> 
+
+<br>
+
+8. Audio calling, video calling, sending messages and sharing images are the features which the signed in user can leverage under the message option.
+
+<img src="ReadmeAssets/Img12.jpeg"> 
+<img src="ReadmeAssets/Img13.jpeg"> 
+
+<br>
+
+9. Highly customiizable profile card under the profile section gives user freedom to change his/her display name and display image.
+
+<img src="ReadmeAssets/Img14.jpeg"> 
+<img src="ReadmeAssets/Img15.jpeg"> 
+<img src="ReadmeAssets/Img16.jpeg"> 
+<img src="ReadmeAssets/Img17.jpeg"> 
+
+<br>
+
+NOTE: User can join or create meetings without even logging in but cannot use chatting feature.
 
 [(Back to top)](#table-of-contents)
 
@@ -130,30 +134,21 @@ This iterative approach assisted me to divide this large project into easily maa
 
 I used Notion as the primary application for designing the mindmap and keeping the record of tasks, and bugs under each sprint.
 
-* <b>Using Notion for managing sprints</b>
+<b>Using Notion for managing sprints</b>
 
-![Notion Sprints]<img src="ReadmeAssets/Notion.png"> 
+<img src="ReadmeAssets/Notion.png"> 
 
 <br>
 I divided entire process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the images below.
 <br>
 <br>
 
-![Sprints]<img src="ReadmeAssets/Sprints.png"> 
+<img src="ReadmeAssets/Sprints.png"> 
 
 <br>
 
 Assignments and sessions attended under the program were separately maintained.
-![Assignments]<img src="ReadmeAssets/Assignment.png"> 
-
-[(Back to top)](#learnings)
-
-1. Break the work down into the smallest chunks and smaller wins in the scrum methodology make bigger wins easier, is the most significant takeaway from this mentorship journey.
-2. Got insights about the real-time video conferencing softwares such as WebRTC, Twilio, and SDKs like Agora, Jitsi_Meet SDK.
-3. Model View Controller(MVC) Architecture, helped to differentiate these(Model, View, Controller) three basic components of a project to write neat and modular code. Following this approach helped me to work on each feature separately without affecting the other one.
-4. Practiced Firebase Could Firestore queries in terms of multilevel collections and documents integrated with each other.
-
-This program was all about challenging one's comfort zone and it only helped me to trasform from a person who just knew how to make static UI to a person who can build full stack mobile applications.
+<img src="ReadmeAssets/Assignment.png"> 
 
 [(Back to top)](#table-of-contents)
 
@@ -170,6 +165,15 @@ During the development process I faced the following challenges:
 For me, all these challenges turned out only into one important lesson that is to prioritize customer needs above anything else.
 
 [(Back to top)](#table-of-contents)
+
+# Learnings
+
+1. Break the work down into the smallest chunks and smaller wins in the scrum methodology make bigger wins easier, is the most significant takeaway from this mentorship journey.
+2. Got insights about the real-time video conferencing softwares such as WebRTC, Twilio, and SDKs like Agora, Jitsi_Meet SDK.
+3. Model View Controller(MVC) Architecture, helped to differentiate these(Model, View, Controller) three basic components of a project to write neat and modular code. Following this approach helped me to work on each feature separately without affecting the other one.
+4. Practiced Firebase Could Firestore queries in terms of multilevel collections and documents integrated with each other.
+
+This program was all about challenging one's comfort zone and it only helped me to trasform from a person who just knew how to make static UI to a person who can build full stack mobile applications.
 
 # Bug Log
 
