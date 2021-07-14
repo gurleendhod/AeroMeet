@@ -48,63 +48,63 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 
 1. Go to the profile section and enter your credentials after clicking on 'Register' option.
 
-<img src="ReadmeAssets/Img1.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img1.jpeg" width="200px" height="300px"> 
 
 <br>
 
 2. Come back to the Sign In page and enter user details again to sign in.
 
-<img src="ReadmeAssets/Img2.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img2.jpeg" width="200px" height="300px"> 
 
 <br>
 
 3. Either you can go to the dashboard for meetings or chat to have one to one chat.
 
-<img src="ReadmeAssets/Img3.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img3.jpeg" width="200px"> 
 
 <br>
 
 4. For joining the meeting user has to enter the room id, shared with him and enter display name, after clicking on join now, user can enter into the meeting room.
 
-<img src="ReadmeAssets/Img4.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img5.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img4.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img5.jpeg" width="200px" height="300px"> 
 
 <br>
 
 5. To host a meeting, enter the meeting title, room id, set date and time. Press on create room and voila! room is created.
 
-<img src="ReadmeAssets/Img6.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img7.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img8.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img6.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img7.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img8.jpeg" width="200px" height="300px"> 
 
 <br>
 
 6. In the history section, past entered meetings are available which can either be entered again by copying the room id or deleted.
 
-<img src="ReadmeAssets/Img9.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img9.jpeg" width="200px" height="300px"> 
 
 <br>
 
 7. If signed in, user can enjoy one to one chat functionality by entering the other users unique personal identity id, available under the profile section, after clicking on the search icon.
 
-<img src="ReadmeAssets/Img10.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img11.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img10.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img11.jpeg" width="200px" height="300px"> 
 
 <br>
 
 8. Audio calling, video calling, sending messages and sharing images are the features which the signed in user can leverage under the message option.
 
-<img src="ReadmeAssets/Img12.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img13.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img12.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img13.jpeg" width="200px" height="300px"> 
 
 <br>
 
 9. Highly customiizable profile card under the profile section gives user freedom to change his/her display name and display image.
 
-<img src="ReadmeAssets/Img14.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img15.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img16.jpeg" width="200px" height="250px"> 
-<img src="ReadmeAssets/Img17.jpeg" width="200px" height="250px"> 
+<img src="ReadmeAssets/Img14.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img15.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img16.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img17.jpeg" width="200px" height="300px"> 
 
 <br>
 
