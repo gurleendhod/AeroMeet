@@ -66,7 +66,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 3. Either you can go to the dashboard for meetings or chat to have one to one chat.
 
-<img src="ReadmeAssets/Img3.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img3.jpeg"> 
 
 <br>
 
@@ -79,9 +79,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 5. To host a meeting, enter the meeting title, room id, set date and time. Press on create room and the room is created.
 
-<img src="ReadmeAssets/Img6.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img7.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img8.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img6.jpeg" height="350px">   <img src="ReadmeAssets/Img7.jpeg" height="350px">   <img src="ReadmeAssets/Img8.jpeg" height="350px"> 
 
 <br>
 
@@ -93,24 +91,19 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 7. If signed in, user can enjoy one to one chat functionality by entering the other users unique personal identity id, available under the profile section, after clicking on the search icon.
 
-<img src="ReadmeAssets/Img10.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img11.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img10.jpeg" height="350px">    <img src="ReadmeAssets/Img11.jpeg" height="350px"> 
 
 <br>
 
 8. Audio calling, video calling, sending messages and sharing images are the features which the signed in user can leverage under the message option.
 
-<img src="ReadmeAssets/Img12.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img13.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img12.jpeg" height="350px">    <img src="ReadmeAssets/Img13.jpeg" height="350px"> 
 
 <br>
 
 9. Highly customizable profile card under the profile section gives user freedom to change his/her name and profile picture.
 
-<img src="ReadmeAssets/Img14.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img15.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img16.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img17.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img14.jpeg" height="350px">    <img src="ReadmeAssets/Img15.jpeg" height="350px">    <img src="ReadmeAssets/Img16.jpeg" height="350px">    <img src="ReadmeAssets/Img17.jpeg" height="350px">
 
 <br>
 
