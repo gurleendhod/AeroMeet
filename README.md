@@ -1,7 +1,7 @@
 # AeroMeet
 
 <!-- Add banner here -->
-![Project Banner](https://drive.google.com/file/d/1lsf2tbvFuyN4xfP7M_bHDw6W-vlTZ5T6/view?usp=sharing)
+![Project Banner](img src="https://drive.google.com/file/d/1lsf2tbvFuyN4xfP7M_bHDw6W-vlTZ5T6/view?usp=sharing")
 # AeroMeet by Gurleen
 
 Float on air, with AeroMeet! This project was built as a part of the Microsoft Engage Mentorship Program 2021 where mentees were promoted to follow agile methodolgy to develop a video conferencing application.
