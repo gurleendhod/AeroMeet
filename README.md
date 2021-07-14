@@ -144,7 +144,7 @@ I divided entire process into <b>4 sprints (each having the duration of 1 week)<
 <br>
 
 Assignments and sessions under the program were separately maintained.
-![Assignments](https://res.cloudinary.com/pooja-gera/image/upload/v1626083385/engage2021-readme_assets/MSTeamsClone_SprintAssignments_upjwsz.png)
+![Assignments]()
 
 [(Back to top)](#learnings)
 
