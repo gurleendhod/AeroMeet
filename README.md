@@ -1,4 +1,4 @@
-<p text = "AeroMeet" align = "center"></p> 
+<h1 align="center">AeroMeet</h1>
 <!-- Add banner here -->
 <p align = "center">
   <img src="ReadmeAssets/Logo.png" />
