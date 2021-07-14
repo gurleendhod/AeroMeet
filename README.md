@@ -1,7 +1,7 @@
 # AeroMeet
 
 <!-- Add banner here -->
-![Project Banner](img src="https://drive.google.com/file/d/1lsf2tbvFuyN4xfP7M_bHDw6W-vlTZ5T6/view?usp=sharing")
+![Project Banner]<img src="ReadmeAssets/Logo.png"> 
 # AeroMeet by Gurleen
 
 Float on air, with AeroMeet! This project was built as a part of the Microsoft Engage Mentorship Program 2021 where mentees were promoted to follow agile methodolgy to develop a video conferencing application.
@@ -132,19 +132,19 @@ I used Notion as the primary application for designing the mindmap and keeping t
 
 * <b>Using Notion for managing sprints</b>
 
-![Notion Sprints](https://drive.google.com/file/d/1D1mIg9GQ0jtWtQjRYNzYHCq5wEM6Kut1/view?usp=sharing)
+![Notion Sprints]<img src="ReadmeAssets/Notion.png"> 
 
 <br>
 I divided entire process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the images below.
 <br>
 <br>
 
-![Sprints](https://drive.google.com/file/d/1f2IA8pyHnlQAzvuQripeBwB3DeQ3A-Ts/view?usp=sharing)
+![Sprints]<img src="ReadmeAssets/Sprints.png"> 
 
 <br>
 
-Assignments and sessions under the program were separately maintained.
-![Assignments]()
+Assignments and sessions attended under the program were separately maintained.
+![Assignments]<img src="ReadmeAssets/Assignment.png"> 
 
 [(Back to top)](#learnings)
 
