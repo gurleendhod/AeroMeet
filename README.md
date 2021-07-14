@@ -1,7 +1,7 @@
 # AeroMeet
 
 <!-- Add banner here -->
-![Project Banner]<img src="ReadmeAssets/Logo.png"> 
+<img src="ReadmeAssets/Logo.png"> 
 # AeroMeet by Gurleen
 
 Float on air, with AeroMeet! This project was built as a part of the Microsoft Engage Mentorship Program 2021 where mentees were promoted to follow agile methodolgy to develop a video conferencing application.
@@ -36,25 +36,25 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 12. Share images while chatting
 13. Customizable profile card
 
-<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
-
 [Watch the Intro on YouTube](#https://youtu.be/tXK0Fz1cj4E)
 
 <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
 
 [Watch the Demo on YouTube](#https://youtu.be/tXK0Fz1cj4E)
 
+<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
+
 # How To Use
 
 1. Go to the profile section and enter your credentials after clicking on 'Register' option.
 
-<img src="ReadmeAssets/Img1.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img1.jpeg" width="200px"> 
 
 <br>
 
 2. Come back to the Sign In page and enter user details again to sign in.
 
-<img src="ReadmeAssets/Img2.jpeg" width="200px" height="300px"> 
+<img src="ReadmeAssets/Img2.jpeg" width="200px"> 
 
 <br>
 
