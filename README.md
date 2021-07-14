@@ -10,7 +10,7 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 <b>Motivation:</b> The need for social distancing has made each one of us feel disconnected from our family, friends, colleagues. This lack of connectedness isn’t only a detriment to employee satisfaction and wellbeing. When you consider that collaboration truly hinges on the interpersonal magic of teammates working together, it’s easy to see how the retreat to WFH could run the risk of eroding team productivity and innovation. Overhere, video conferencing platforms such as Microsoft Teams come into the picture, to feel us more connected.
 
 
-<b>Solved Problem:</b> This mobile application is an online video meeting platform which powers all of your communication needs, including video meetings, one-on-one chat, audio calling, webinars, and online events.
+<b>Solved Problem:</b> AeroMeet mobile application is an online video meeting platform which powers all of your communication needs, including video meetings, one-on-one chat, audio calling, webinars, and online events.
 
 ## Table of contents
 
@@ -54,65 +54,66 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 1. Go to the profile section and enter your credentials after clicking on 'Register' option.
 
-<img src="ReadmeAssets/Img1.jpeg"> 
+<img src="ReadmeAssets/Img1.jpeg" height="350px"> 
 
 <br>
 
 2. Come back to the Sign In page and enter user details again to sign in.
 
-<img src="ReadmeAssets/Img2.jpeg"> 
+<img src="ReadmeAssets/Img2.jpeg" height="350px"> 
 
 <br>
 
 3. Either you can go to the dashboard for meetings or chat to have one to one chat.
 
-<img src="ReadmeAssets/Img3.jpeg"> 
+<img src="ReadmeAssets/Img3.jpeg" height="350px"> 
 
 <br>
 
 4. For joining the meeting user has to enter the room id, shared with him and enter display name, after clicking on join now, user can enter into the meeting room.
 
-<img src="ReadmeAssets/Img4.jpeg"> 
-<img src="ReadmeAssets/Img5.jpeg"> 
+<img src="ReadmeAssets/Img4.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img5.jpeg" height="350px"> 
 
 <br>
 
-5. To host a meeting, enter the meeting title, room id, set date and time. Press on create room and voila! room is created.
+5. To host a meeting, enter the meeting title, room id, set date and time. Press on create room and the room is created.
 
-<img src="ReadmeAssets/Img6.jpeg"> 
-<img src="ReadmeAssets/Img7.jpeg"> 
-<img src="ReadmeAssets/Img8.jpeg"> 
+<img src="ReadmeAssets/Img6.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img7.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img8.jpeg" height="350px"> 
 
 <br>
 
 6. In the history section, past entered meetings are available which can either be entered again by copying the room id or deleted.
 
-<img src="ReadmeAssets/Img9.jpeg"> 
+<img src="ReadmeAssets/Img9.jpeg" height="350px"> 
 
 <br>
 
 7. If signed in, user can enjoy one to one chat functionality by entering the other users unique personal identity id, available under the profile section, after clicking on the search icon.
 
-<img src="ReadmeAssets/Img10.jpeg"> 
-<img src="ReadmeAssets/Img11.jpeg"> 
+<img src="ReadmeAssets/Img10.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img11.jpeg" height="350px"> 
 
 <br>
 
 8. Audio calling, video calling, sending messages and sharing images are the features which the signed in user can leverage under the message option.
 
-<img src="ReadmeAssets/Img12.jpeg"> 
-<img src="ReadmeAssets/Img13.jpeg"> 
+<img src="ReadmeAssets/Img12.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img13.jpeg" height="350px"> 
 
 <br>
 
-9. Highly customiizable profile card under the profile section gives user freedom to change his/her display name and display image.
+9. Highly customizable profile card under the profile section gives user freedom to change his/her name and profile picture.
 
-<img src="ReadmeAssets/Img14.jpeg"> 
-<img src="ReadmeAssets/Img15.jpeg"> 
-<img src="ReadmeAssets/Img16.jpeg"> 
-<img src="ReadmeAssets/Img17.jpeg"> 
+<img src="ReadmeAssets/Img14.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img15.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img16.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img17.jpeg" height="350px"> 
 
 <br>
+
 
 NOTE: User can join or create meetings without even logging in but cannot use chatting feature.
 
@@ -122,7 +123,7 @@ NOTE: User can join or create meetings without even logging in but cannot use ch
 
 Scrum is an agile development methodology used in the development of software, based on an iterative and incremental processes. The primary objective of Scrum is to satisfy the customer’s need(which in this case was a video conferencing platform) through an environment of transparency in communication, collective responsibility and continuous progress. The development starts from a general idea of what needs to be built, elaborating a list of characteristics ordered by priority (product backlog) that the owner of the product wants to obtain.
 
-Dividing myself into five different people - one who will research and look over everything, one who will design, one who will develop the frontend, who who will develop the backend and finally one who will fix the bugs - made the task a lot easier. This breakdown helped me to be domain-oriented and focus on one task at a particular point of time.
+Dividing myself into five different people - one who will research and look over everything, one who will design, one who will develop the frontend, one who will develop the backend and finally one who will fix the bugs - made the task a lot easier. This breakdown helped me to be domain-oriented and focus on one task at a particular point of time.
 
 This iterative approach assisted me to divide this large project into easily maageable sprints, increasing rate of deliverables, and adapting to changes as they occur.
 
@@ -133,7 +134,7 @@ I used Notion as the primary application for designing the mindmap and keeping t
 <img src="ReadmeAssets/Notion.png"> 
 
 <br>
-I divided entire process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the images below.
+I divided entire process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the image below.
 <br>
 <br>
 
