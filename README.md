@@ -173,7 +173,9 @@ Following are the known bugs of the web application:
 ## Try The Mobile Application
 
 APK of application: https://drive.google.com/file/d/1eH2yXe8TKsdHzgdLPDtlPq3-11d4F4zZ/view?usp=sharing
+
 Credentials for testing:
+
 Email- gauravdhod56@gmail.com
 Pwd - Gaurab1234+
 
