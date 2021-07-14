@@ -9,7 +9,7 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 
 <b>Solved Problem:</b> This mobile application is an online video meeting platform which powers all of your communication needs, including video meetings, one-on-one chat, audio calling, webinars, and online events.
 
-# Table of contents
+## Table of contents
 
 - [Features of the Application (With Demo)](#features-of-the-application-with-demo)
 - [Tech Stack Selection](#tech-stack-selection)
@@ -21,7 +21,7 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 - [Try The Mobile Application](#try-the-mobile-application)
 - [Support and Contact](#support-and-contact)
 
-# Features of the Application (With Demo)
+## Features of the Application (With Demo)
 
 1. Signup
 2. Login
@@ -45,7 +45,7 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 
 <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
 
-# Tech Stack Selection 
+## Tech Stack Selection 
 
 Mobile apps have become one of the important parts of our life that connects us with people living in different places just by sitting at home hence, I decided to develop a <b>mobile application</b> so that it allows users to access the application on the go.
 
@@ -53,7 +53,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 [(Back to top)](#table-of-contents)
 
-# How To Use
+## How To Use
 
 1. Go to the profile section and enter your credentials after clicking on 'Register' option.
 
@@ -121,7 +121,7 @@ NOTE: User can join or create meetings without even logging in but cannot use ch
 
 [(Back to top)](#table-of-contents)
 
-# Usage of Scrum Methodology 
+## Usage of Scrum Methodology 
 
 Scrum is an agile development methodology used in the development of software, based on an iterative and incremental processes. The primary objective of Scrum is to satisfy the customer’s need(which in this case was a video conferencing platform) through an environment of transparency in communication, collective responsibility and continuous progress. The development starts from a general idea of what needs to be built, elaborating a list of characteristics ordered by priority (product backlog) that the owner of the product wants to obtain.
 
@@ -149,7 +149,7 @@ Assignments and sessions attended under the program were separately maintained.
 
 [(Back to top)](#table-of-contents)
 
-# Challenges Faced
+## Challenges Faced
 
 During the development process I faced the following challenges: 
 
@@ -163,7 +163,7 @@ For me, all these challenges turned out only into one important lesson that is t
 
 [(Back to top)](#table-of-contents)
 
-# Learnings
+## Learnings
 
 1. Break the work down into the smallest chunks and smaller wins in the scrum methodology make bigger wins easier, is the most significant takeaway from this mentorship journey.
 2. Got insights about the real-time video conferencing softwares such as WebRTC, Twilio, and SDKs like Agora, Jitsi_Meet SDK.
@@ -172,7 +172,7 @@ For me, all these challenges turned out only into one important lesson that is t
 
 This program was all about challenging one's comfort zone and it only helped me to trasform from a person who just knew how to make static UI to a person who can build full stack mobile applications.
 
-# Bug Log
+## Bug Log
 
 Following are the known bugs of the web application: 
 1. There could have been an onboarding screen for great user experience.
@@ -180,7 +180,7 @@ Following are the known bugs of the web application:
 
 [(Back to top)](#table-of-contents)
 
-# Try The Mobile Application
+## Try The Mobile Application
 
 APK of application: https://drive.google.com/file/d/1eH2yXe8TKsdHzgdLPDtlPq3-11d4F4zZ/view?usp=sharing
 Credentials for testing:
@@ -189,7 +189,7 @@ Pwd - Gaurab1234+
 
 [(Back to top)](#table-of-contents)
 
-# Support and Contact 
+## Support and Contact 
 
 Email To: gurleendhod.sid@gmail.com
 
