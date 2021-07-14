@@ -37,13 +37,7 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 12. Share images while chatting
 13. Customizable profile card
 
-[Watch the Intro on YouTube](#https://youtu.be/tXK0Fz1cj4E)
-
-<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
-
-[Watch the Demo on YouTube](#https://youtu.be/tXK0Fz1cj4E)
-
-[![youtube-icon](https://image.flaticon.com/icons/png/512/1384/1384060.png)](#https://youtu.be/tXK0Fz1cj4E)
+Checkout the demo: https://www.youtube.com/watch?v=tXK0Fz1cj4E
 
 ## Tech Stack Selection 
 
