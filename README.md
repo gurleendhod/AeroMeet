@@ -72,8 +72,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 4. For joining the meeting user has to enter the room id, shared with him and enter display name, after clicking on join now, user can enter into the meeting room.
 
-<img src="ReadmeAssets/Img4.jpeg" height="350px"> 
-<img src="ReadmeAssets/Img5.jpeg" height="350px"> 
+<img src="ReadmeAssets/Img4.jpeg" height="350px">   <img src="ReadmeAssets/Img5.jpeg" height="350px"> 
 
 <br>
 
