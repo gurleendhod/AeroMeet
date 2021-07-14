@@ -166,7 +166,8 @@ This program was all about challenging one's comfort zone and it only helped me 
 
 Following are the known bugs of the web application: 
 1. There could have been an onboarding screen for great user experience.
-2. An individual might not be able to signup and register themselves smoothly.
+2. An individual might not be able to signin using google.
+3. Forgot password option is disabled.
 
 [(Back to top)](#table-of-contents)
 
