@@ -42,9 +42,8 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
 
 [Watch the Demo on YouTube](#https://youtu.be/tXK0Fz1cj4E)
-<iframe width="663" height="373" src="https://www.youtube.com/embed/tXK0Fz1cj4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube-icon" width="50px"> 
+[![youtube-icon](https://image.flaticon.com/icons/png/512/1384/1384060.png)](#https://youtu.be/tXK0Fz1cj4E)
 
 ## Tech Stack Selection 
 
