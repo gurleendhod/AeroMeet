@@ -5,7 +5,10 @@
 </p>
 
 Float on air, with AeroMeet! This project was built as a part of the Microsoft Engage Mentorship Program 2021 where mentees were promoted to follow agile methodolgy to develop a video conferencing application.
+
+
 <b>Motivation:</b> The need for social distancing has made each one of us feel disconnected from our family, friends, colleagues. This lack of connectedness isn’t only a detriment to employee satisfaction and wellbeing. When you consider that collaboration truly hinges on the interpersonal magic of teammates working together, it’s easy to see how the retreat to WFH could run the risk of eroding team productivity and innovation. Overhere, video conferencing platforms such as Microsoft Teams come into the picture, to feel us more connected.
+
 
 <b>Solved Problem:</b> This mobile application is an online video meeting platform which powers all of your communication needs, including video meetings, one-on-one chat, audio calling, webinars, and online events.
 
