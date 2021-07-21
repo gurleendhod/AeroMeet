@@ -40,7 +40,7 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 12. Share images while chatting
 13. Customizable profile card
 
-Checkout the demo: https://www.youtube.com/watch?v=tXK0Fz1cj4E
+Checkout the demo: https://youtu.be/e2eRH52-LQE
 
 ## Tech Stack Selection 
 
@@ -117,7 +117,7 @@ Scrum is an agile development methodology used in the development of software, b
 
 Dividing myself into five different people - one who will research and look over everything, one who will design, one who will develop the frontend, one who will develop the backend and finally one who will fix the bugs - made the task a lot easier. This breakdown helped me to be domain-oriented and focus on one task at a particular point of time.
 
-This iterative approach assisted me to divide this large project into easily maageable sprints, increasing rate of deliverables, and adapting to changes as they occur.
+This iterative approach assisted me to divide this large project into easily manageable sprints, increasing rate of deliverables, and adapting to changes as they occur.
 
 I used Notion as the primary application for designing the mindmap and keeping the record of tasks, and bugs under each sprint.
 
