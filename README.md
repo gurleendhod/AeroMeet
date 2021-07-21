@@ -21,7 +21,6 @@ Float on air, with AeroMeet! This project was built as a part of the Microsoft E
 - [Challenges Faced](#challenges-faced)
 - [Learnings](#learnings)
 - [Bug Log](#bug-log)
-- [Try The Mobile Application](#try-the-mobile-application)
 - [Support and Contact](#support-and-contact)
 
 ## Features of the Application (With Demo)
@@ -168,12 +167,6 @@ Following are the known bugs of the web application:
 1. There could have been an onboarding screen for great user experience.
 2. An individual might not be able to signin using google.
 3. Forgot password option is disabled.
-
-[(Back to top)](#table-of-contents)
-
-## Try The Mobile Application
-
-APK of application: https://drive.google.com/file/d/1eH2yXe8TKsdHzgdLPDtlPq3-11d4F4zZ/view?usp=sharing
 
 [(Back to top)](#table-of-contents)
 
